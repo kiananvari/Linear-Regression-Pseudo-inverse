@@ -22,5 +22,5 @@ You can see the description of the implementation method in the following file:
 
 ## Results 
 
-![App Screenshot](https://github.com/kiananvari/LSTM-price-prediction/raw/main/Result.png)
+![App Screenshot](https://github.com/kiananvari/Linear-Regression-Pseudo-inverse/raw/main/Result.png)
 
