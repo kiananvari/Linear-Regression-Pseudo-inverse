@@ -18,7 +18,7 @@ Python Implementation of Linear Regression and Pseudo-inverse - Neural Networks
 ## Documentation
 
 You can see the description of the implementation method in the following file:  
-[Click Here](https://linktodocumentation)
+[Click Here](https://github.com/kiananvari/Linear-Regression-Pseudo-inverse/raw/main/Documentation.pdf)
 
 ## Results 
 
